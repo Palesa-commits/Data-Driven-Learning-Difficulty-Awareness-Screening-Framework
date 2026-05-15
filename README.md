@@ -1,4 +1,9 @@
 # Data-Driven-Learning-Difficulty-Awareness-Screening-Framework
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-lightgrey)
+![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Risk%20Scoring-orange)
+![Education](https://img.shields.io/badge/Domain-Education-green)
 ![Image](https://github.com/Palesa-commits/Data-Driven-Learning-Difficulty-Awareness-Screening-Framework/blob/main/banner.svg)
 A data-driven screening framework designed to help parents, teachers and schools identify early warning signs of potential learning difficulties and support early educational intervention.
 
@@ -35,4 +40,24 @@ Ages 13–15
 
 ### Synthetic Dataset Testing
 A synthetic dataset was created to test and demonstrate the screening framework in practice.
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+- Statistical Analysis
+- Risk Scoring Framework
+- GitHub
+
+## Key Features
+- Data-driven screening framework
+- Risk scoring model
+- Statistical analysis of learning difficulty indicators
+- Printable screening questionnaires
+- Educational awareness focus
+- Early intervention support framework
+  
+## Project Impact
+This project aims to support awareness and early educational intervention by helping identify patterns associated with potential learning difficulties, especially in under-resourced communities where access to formal assessment may be limited.
 
